@@ -1,16 +1,38 @@
-## Hi there 👋
+# <p align="center">Hi 👋, I'm Pedro Place</p>
 
-<!--
-**PedroPlace11/PedroPlace11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center">Front-End & Back-End Development Student</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXlyeXlyeXlyeXlyeXlyeXlyeXlyeXlyeXlyeXlyJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 🎓 I'm a 23y student currently taking a **Degree in Front-End and Back-End Development**
+* 📍 Based in **Lisbon, Portugal** 🇵🇹
+* 💼 Currently at **Inovcorp**
+* 💡 I use this GitHub to share my projects, like my **Biblioteca-Digital** and **To-Do App**
+* 🚀 I'm passionate about technology and learning new programming skills
+* 📚 Always improving my knowledge in web development
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPlace11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPlace11&layout=compact&theme=dark" width="300" />
+</p>
