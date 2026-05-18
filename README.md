@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 I'm a 23y student currently taking a **Degree in Front-End and Back-End Development**
+* 🎓 I'm a 24y student currently taking a **Degree in Front-End and Back-End Development**
 * 📍 Based in **Lisbon, Portugal** 🇵🇹
 * 💼 Currently at **Inovcorp**
 * 💡 I use this GitHub to share my projects, like my **Biblioteca-Digital** and **To-Do App**
